@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jcanadyr
-- 👀 I’m interested in being a web developer.
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on future projects, once I know what I am doing.
 
