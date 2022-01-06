@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jcanadyr
-- 🌱 I’m currently learning HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on future projects, once I know what I am doing.
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, and Android Dev.
+- 💞️ I’m looking to collaborate on projects.
 
 <!---
 Jcanadyr/Jcanadyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
